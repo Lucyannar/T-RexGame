@@ -1,4 +1,4 @@
-# T-Rex Game
+# T-Rex Game :t-rex:
 T-Rex Game é o famoso jogo do dinossauro do google que normalmente é jogado quando não tem internet. Ele é um tradicional jogo de corrida com o objetivo de pular os obstáculos.
 
 ## Instruções para acessar o jogo
